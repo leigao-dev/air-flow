@@ -96,7 +96,7 @@ colorlog==4.0.2
 connexion==2.7.0
 coverage==5.1
 croniter==0.3.34
-cryptography==2.9.2
+cryptography==3.2
 curlify==2.2.1
 cx-Oracle==8.0.0
 dask==2.20.0
