@@ -286,7 +286,7 @@ pyparsing==2.4.7
 pypd==1.1.0
 pyrsistent==0.16.0
 pysftp==0.2.9
-pyspark==3.0.0
+pyspark==3.2.2
 pytest-cov==2.10.0
 pytest-forked==1.2.0
 pytest-instafail==0.4.2
